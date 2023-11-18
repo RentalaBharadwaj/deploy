@@ -6,7 +6,7 @@ import TodoApp from './todo/Todo';
 function App() {
   return (
     <div className="App">
-      <h1>site deployed..</h1>
+      <h1>welcome</h1>
       <TodoApp/>
     </div>
   );
